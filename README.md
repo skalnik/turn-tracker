@@ -7,7 +7,7 @@ the GitHub office
 
 0. Check out the [BOM](build_of_materials.md)
 0. Solder everything together [TODO: Wiring guide]
-0. 3D Print case & place inside following instructions [TODO: instructions]
+0. 3D Print [case](stl/case.stl) & place inside following instructions [TODO: instructions]
 
 ## Whats it look like?
 
